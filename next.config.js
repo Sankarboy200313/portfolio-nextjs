@@ -1,3 +1,3 @@
-/*module.exports = {
+module.exports = {
   basePath: "/portfolio-nextjs",
-};*/
+};
